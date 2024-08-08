@@ -2,3 +2,8 @@
     height: 400px;
     object-fit: cover;
 }
+
+.navbar {
+    height: 60px;
+    z-index: 2;
+}
